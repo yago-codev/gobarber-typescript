@@ -1,0 +1,8 @@
+{
+  "name": "gobarber-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yago-codev/gobarber-typescript.git",
+  "author": "Yago Milano <yago.codev@gmail.com> (https://github.com/yago-codev)",
+  "license": "MIT"
+}
