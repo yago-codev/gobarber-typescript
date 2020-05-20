@@ -1,0 +1,15 @@
+root = true
+
+[*]
+# indentação por espaços
+indent_style = space
+# número de espaços da indentação
+indent_size = 2
+# setando o tipo de caracteres
+charset = utf-8
+# remove os espaços no final de cada linha
+trim_trailing_whitespace = true
+# insere uma linha em branco após a última sentença de código
+insert_final_newline = true
+# padroniza a quebra de linha entre windows/linux
+end_of_line = lf
