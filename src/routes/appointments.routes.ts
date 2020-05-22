@@ -1,6 +1,6 @@
 // Dependências/Libs
 import { Router } from 'express';
-import { startOfHour, parseISO } from 'date-fns';
+import { parseISO } from 'date-fns';
 
 // Módulos/Arquivos
 import AppointmentsRepository from '../repositories/AppointmentsRepository';

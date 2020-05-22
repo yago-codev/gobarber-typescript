@@ -4,6 +4,7 @@ import bodyParser from 'body-parser';
 
 // módulos
 import routes from './routes';
+import './database';
 
 const app = express();
 
